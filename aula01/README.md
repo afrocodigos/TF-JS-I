@@ -54,11 +54,44 @@ Normalmente vamos nos deparar com dois tipos de downloads. O primeiro é o **LTS
 
 7. Dias de Glória! Agora, sempre que quisermos rodar nosso programa, basta clicar no icone de ▶️ no canto superior direito do seu visual code.
 
----
-
 `Aconteceu qualquer problema?`
 Use o [Replit](https://replit.com/~) até conseguir resolver, dessa forma você não fica de fora das atividades!
 
 ---
 
+## Front end
+
+<p align="center">
+  <img src="https://github.com/afrocodigos/TF-JS-I/assets/7760933/aca954ca-cf7d-48a7-8009-e18f5fc74dfc">
+  
+[leia mais..](https://medium.com/@ist.stevkovski/is-it-front-end-or-front-end-or-frontend-3ae717cae4aa)
+</p>
+
+
+✨ front-end é um adjetivo composto, segundo o dicionário de [Cambridge](https://dictionary.cambridge.org/pt/dicionario/ingles/front-end) é `usado como adjetivo composto para descrever outro substantivo`.
+
+✨ front end é um substantivo composto, segundo o dicionário de [Cambridge](https://dictionary.cambridge.org/pt/dicionario/ingles/front-end) refere-se `as partes de um computador, software ou site que são vistas e usadas diretamente pelo usuário`.
+
+✨ frontend não é citado no dicionário 🥲
+
+### E o que faz uma pessoa front-end?
+Desenvolve o front end das apliçaões 🥹✌🏾 [leia mais](https://ebaconline.com.br/blog/desenvolvedor-front-end-o-que-faz)
+
+## JavaScript
+JavaScript é uma linguagem de programação originalmente desenvolvida para trazer maior interatividade a websites. Ela tornou possível o desenvolvimento de aplicações atuais da web, ao permitir que você interaja diretamente sem precisar recarregar a página a cada ação. Ela também é usada em sites mais tradicionais, para fornecer interatividades mais inteligentes. Mais sobre a origem dessa linguagem [aqui](https://www.alura.com.br/apostila-html-css-javascript/38CA-eventos-com-javascript).
+
+O JavaScript foi criado para atender a demandas de front. À medida que a demanda pela linguagem acompanhava o crescimento tecnológico, surgiu a ideia de utilizar uma mesma linguagem no cliente e no servidor que conseguisse otimizar processos e serviços. O Node.JS tornou-se uma alternativa à programação back-end ao oferecer um ambiente de desenvolvimento de linguagem JavaScript. Um Node é um runtime, um conjunto de códigos e APIs (Interface de Programação de Aplicativos) que nos ajuda a obter informações. Nodes funcionam como bibliotecas: são responsáveis pelo tempo de execução (que faz o seu programa rodar) e agem como interpretador de JavaScript fora do ambiente de navegação web.
+
+As funcionalidades do Node motivaram o engenheiro de software Ryan Dahl a desenvolver um ambiente que trabalhasse com linguagem JavaScript fora do navegador e pelo lado do servidor, como um programa instalável no computador via terminal, de forma menos restritiva.
+
+### Variáveis e constantes
+
+to-do
+
+### Tipos de dados
+
+to-do 
+
+---
+  
 <p align="center">Isso é tudo pessoaaal!</p>
