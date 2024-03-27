@@ -20,5 +20,5 @@ Esse repositório é voltado ao módulo de JavaScript 1, terá duração de 3 au
 - Objetos e lista
 
 ---
-Feito com muito carinho <3
+Feito com muito carinho por [Lis](https://github.com/lisandrascruz) <3
 
