@@ -67,7 +67,6 @@ Use o [Replit](https://replit.com/~) até conseguir resolver, dessa forma você 
 [leia mais..](https://medium.com/@ist.stevkovski/is-it-front-end-or-front-end-or-frontend-3ae717cae4aa)
 </p>
 
-
 ✨ front-end é um adjetivo composto, segundo o dicionário de [Cambridge](https://dictionary.cambridge.org/pt/dicionario/ingles/front-end) é `usado como adjetivo composto para descrever outro substantivo`.
 
 ✨ front end é um substantivo composto, segundo o dicionário de [Cambridge](https://dictionary.cambridge.org/pt/dicionario/ingles/front-end) refere-se `as partes de um computador, software ou site que são vistas e usadas diretamente pelo usuário`.
@@ -75,23 +74,103 @@ Use o [Replit](https://replit.com/~) até conseguir resolver, dessa forma você 
 ✨ frontend não é citado no dicionário 🥲
 
 ### E o que faz uma pessoa front-end?
+
 Desenvolve o front end das apliçaões 🥹✌🏾 [leia mais](https://ebaconline.com.br/blog/desenvolvedor-front-end-o-que-faz)
 
 ## JavaScript
+
 JavaScript é uma linguagem de programação originalmente desenvolvida para trazer maior interatividade a websites. Ela tornou possível o desenvolvimento de aplicações atuais da web, ao permitir que você interaja diretamente sem precisar recarregar a página a cada ação. Ela também é usada em sites mais tradicionais, para fornecer interatividades mais inteligentes. Mais sobre a origem dessa linguagem [aqui](https://www.alura.com.br/apostila-html-css-javascript/38CA-eventos-com-javascript).
 
 O JavaScript foi criado para atender a demandas de front. À medida que a demanda pela linguagem acompanhava o crescimento tecnológico, surgiu a ideia de utilizar uma mesma linguagem no cliente e no servidor que conseguisse otimizar processos e serviços. O Node.JS tornou-se uma alternativa à programação back-end ao oferecer um ambiente de desenvolvimento de linguagem JavaScript. Um Node é um runtime, um conjunto de códigos e APIs (Interface de Programação de Aplicativos) que nos ajuda a obter informações. Nodes funcionam como bibliotecas: são responsáveis pelo tempo de execução (que faz o seu programa rodar) e agem como interpretador de JavaScript fora do ambiente de navegação web.
 
 As funcionalidades do Node motivaram o engenheiro de software Ryan Dahl a desenvolver um ambiente que trabalhasse com linguagem JavaScript fora do navegador e pelo lado do servidor, como um programa instalável no computador via terminal, de forma menos restritiva.
 
-### Variáveis e constantes
+## 🎲 Tipos de Dados
 
-to-do
+- `Number` representa um conjunto de dados numéricos positivos ou negativos, inteiros, reais ou decimais;
 
-### Tipos de dados
+- `String` é a sequência de caracteres, sejam eles textuais, numericos, simbolos e afins;
 
-to-do 
+- `Boolean` é uma variável que recebe um dado lógico com apenas duas possibilidades: ser verdadeiro ou falso (true or false);
+
+- `Null` representa uma variável vazia ou nula que não armazena nada.
+
+## 📦 Variáveis e Constantes
+
+As variáveis tem o poder de armazenar informações inseridas em nossos códigos. A forma que escolhemos determinará se será uma variável de escopo local ou escopo global. Mas como assim?
+
+- <b>Escopo global</b> quer dizer que uma vez declarada, essa variável estará “viva” durante toda a aplicação e poderá ser acessada em toda a aplicação.
+
+- <b>Escopo local</b>, o escopo das variáveis locais é vinculado ao bloco onde elas são declaradas. Sendo assim, elas “morrem” ao final da instrução em que estão sendo executadas.
+
+### Declarando variáveis e constantes
+
+- `var` declara uma variável, opcionalmente, inicializando-a com um valor. [USO NÃO RECOMENDADO]
+
+- `let` declara uma variável local de escopo do bloco, opcionalmente, inicializando-a com um valor.
+
+- `const` declara uma constante de escopo de bloco, apenas de leitura.
+
+🐼 🐼 🐼
+
+`Todas as vezes que uma variável é criada com o VAR, um panda morre. Atualmente o seu uso está depreciado e não é considerado uma boa prática. Salvem os pandas, não usem VAR.`
+
+🐼 🐼 🐼
+
+<p align="center">
+  <img width="600" src="https://miro.medium.com/max/1200/0*mYuuRwjUfUOAdHpo.jpg">
+</p>
+
+### Padrões de nomeclatura
+
+`Iremos utilizar o camelCaseNoCurso`
+
+<p align="center">
+  <img width="400" src="https://juniortoexpert.com/wp-content/uploads/naming-convention-snake-case-kebab-case-camel-case.png">
+</p>
+
+#### 🏋🏽 Bora praticar
+
+Abra o Visual Studio
+
+<details>
+<summary>Pratica 1: crie 3 constantes e mostre no console o valor salvo nelas</summary>
+
+```javascript
+const fruta1 = "banana";
+const fruta2 = "maçã";
+const fruta3 = "laranja";
+console.log(fruta1);
+console.log(fruta2);
+console.log(fruta3);
+```
+
+</details>
+    
+    
+<details>
+    <summary>Pratica 2: Declare e insira os valores nas seguintes variáveis ou constantes: Nome do país, Pontos turísticos, Capital do país, Quantidade de estados, O país é da América Latina?
+    </summary>
+
+    ```javascript
+    const nomePais = "Brasil";
+    let pontosTuristicos = "Pelorinho, Cristo Redentor";
+    const capitalPais = "Brasilia";
+    const quantidadeEstados = 26;
+    const eDaAmericaLatina = true;
+
+    ```
+
+  </details>
+
+```
+
+Também é possível declarar muitas variáveis em uma declaração:
+
+let pessoa = "Jess", Idade = "25", signo = "Escorpião";
+
+```
 
 ---
-  
+
 <p align="center">Isso é tudo pessoaaal!</p>
