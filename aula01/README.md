@@ -149,25 +149,24 @@ console.log(fruta3);
     
     
 <details>
-    <summary>Pratica 2: Declare e insira os valores nas seguintes variáveis ou constantes: Nome do país, Pontos turísticos, Capital do país, Quantidade de estados, O país é da América Latina?
-    </summary>
+<summary>Pratica 2: Declare e insira os valores nas seguintes variáveis ou constantes: Nome do país, Pontos turísticos, Capital do país, Quantidade de estados, O país é da América Latina?
+</summary>
 
-    ```javascript
-    const nomePais = "Brasil";
-    let pontosTuristicos = "Pelorinho, Cristo Redentor";
-    const capitalPais = "Brasilia";
-    const quantidadeEstados = 26;
-    const eDaAmericaLatina = true;
+```javascript
+const nomePais = "Brasil";
+let pontosTuristicos = "Pelorinho, Cristo Redentor";
+const capitalPais = "Brasilia";
+const quantidadeEstados = 26;
+const eDaAmericaLatina = true;
+```
 
-    ```
-
-  </details>
+</details>
 
 ```
 
 Também é possível declarar muitas variáveis em uma declaração:
 
-let pessoa = "Jess", Idade = "25", signo = "Escorpião";
+let pessoa = "Jess", idade = "25", signo = "Escorpião";
 
 ```
 
