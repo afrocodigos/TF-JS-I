@@ -39,6 +39,8 @@ Existem algumas formas de manipular string:
 - `substr` retorna trechos de string informando a posição.
 - mais: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String 
 
+🏋🏽 Bora praticar.. [clique aqui](https://docs.google.com/document/d/1NGb9lWAUVlXqOG_NroNmX_YtpqTI3G8jD8wemAEKBo4) para acessar a lista de atividades.
+
 ---
 
 ## 🧮 Operadores aritméticos
@@ -75,3 +77,5 @@ const and_e = estritamenteIgual && maiorQue;
 const or_ou = maiorQue || estritamenteDiferente;
 const not_nao = !estritamenteDiferente;
 ```
+
+🏋🏽 Bora praticar.. [clique aqui](https://docs.google.com/document/d/1Zb8gE7Hpwglt-XA0f9zayoYoTbjCAOUgcBY61-o3XSI) para acessar a lista de atividades.
