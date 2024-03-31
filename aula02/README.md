@@ -36,7 +36,7 @@ Existem algumas formas de manipular string:
 - `split` separa uma string definindo um limitador;
 - `replace` substitui trechos da string;
 - `slice` retorna só um trecho da string;
-- `substr` retorna trechos de string informando a posição.
+- `substring` retorna trechos de string informando a posição.
 - mais: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String 
 
 🏋🏽 Bora praticar.. [clique aqui](https://docs.google.com/document/d/1NGb9lWAUVlXqOG_NroNmX_YtpqTI3G8jD8wemAEKBo4) para acessar a lista de atividades.
@@ -72,6 +72,8 @@ const menorOuIgualQue = 21 <= 21;
 ```
 
 ### Operadores lógico
+<img width="364" alt="image" src="https://github.com/afrocodigos/TF-JS-I/assets/7760933/b8276375-767e-454f-944d-68fc329a3928">
+
 ```javascript
 const and_e = estritamenteIgual && maiorQue;
 const or_ou = maiorQue || estritamenteDiferente;
@@ -79,3 +81,5 @@ const not_nao = !estritamenteDiferente;
 ```
 
 🏋🏽 Bora praticar.. [clique aqui](https://docs.google.com/document/d/1Zb8gE7Hpwglt-XA0f9zayoYoTbjCAOUgcBY61-o3XSI) para acessar a lista de atividades.
+
+
