@@ -36,3 +36,15 @@ const { nome } = filme
 > 2. A duração deve ser expressa em horas caso tenha, ex.: 1 hora e 2 minutos.`
 
 ## Array
+
+O array é uma estrutura que serve para armazenar e organizar os dados.
+
+```javascript
+const numeros = [1, 2, 3, 4, 5, 6, 7, 8];
+const vogais = ["a", "e", "i", "o", "u"];
+const pessoas = [
+  { nome: "Lisandra Cruz", apelido: "Lis", idade: 28 },
+  { nome: "Andréa Azevedo", apelido: "Deia", idade: 52 },
+  { nome: "Dandara Lima", apelido: "Dandinha", idade: 5 },
+];
+```
