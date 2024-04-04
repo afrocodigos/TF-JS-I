@@ -26,7 +26,7 @@ Esse repositório é voltado ao módulo de JavaScript 1, terá duração de 3 au
 
 - Operadores aritméticos, lógicos e relacionais
 
-#### [04/04] Aula 03
+#### [04/04] Aula 04
 
 - Objetos e lista
 
